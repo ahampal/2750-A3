@@ -6,6 +6,6 @@ npm-debug.log*
 .env.test
 .vscode-test
 
-node_modules/
-build/
-bin/
+/node_modules/
+/build/
+/bin/

@@ -1,4 +1,4 @@
-# Angel of Death Assignment 3
+# VCard Manager
 Web GUI for vCard Parser. Front end client makes use of bootstrap and communicates with the server
 using ajax. Back end server written in javascript and makes function calls to parser library written
 in C
