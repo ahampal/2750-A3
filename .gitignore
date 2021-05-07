@@ -1,0 +1,11 @@
+logs
+*.log
+npm-debug.log*
+
+.env
+.env.test
+.vscode-test
+
+node_modules/
+build/
+bin/
